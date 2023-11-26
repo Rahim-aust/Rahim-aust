@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim-aust&label=Profile%20views&color=0e75b6&style=flat" alt="rahim-aust" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Cyber Security**
+- 🌱 I’m currently learning **Machine Learning, Cyber Security, Web Penetration,Bug Hunting**
 
-- 👨‍💻 All of my projects are available at [https://rahim-aust.github.io/resume-abdur-rahim/](https://rahim-aust.github.io/resume-abdur-rahim/)
+- 👨‍💻 All of my projects are available at [my-website](https://rahim-aust.github.io/resume-abdur-rahim/)
 
-- 💬 Ask me about **Web Development, Python, C++**
+- 💬 Ask me about **Software Quality Assurance (SQA), Web Development, Python, C++**
 
 - 📫 How to reach me **ad.rahim.cse@gmail.com**
 
